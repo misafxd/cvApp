@@ -1,0 +1,65 @@
+    .cv-header {
+      text-align: center;
+      border-bottom: 2px solid #666;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+    }
+
+    .cv-header h1 {
+      font-size: 24px;
+      margin: 0;
+      color: #333;
+    }
+
+    .cv-header p {
+      margin: 5px 0;
+      font-size: 14px;
+      color: #555;
+    }
+
+    .cv-section {
+      margin-bottom: 20px;
+    }
+
+    .cv-section h2 {
+      margin: 0;
+      font-size: 18px;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+      color: #444;
+    }
+
+    .education-item, .experience-item {
+      margin-bottom: 10px;
+    }
+
+    .education-item p, .experience-item p {
+      margin: 2px 0;
+    }
+
+    .education-item .study-date,
+    .experience-item .date-range {
+      font-size: 12px;
+      color: #888;
+    }
+
+    .experience-item h3 {
+      font-size: 16px;
+      margin: 0;
+    }
+
+    .experience-item .responsibilities {
+      font-size: 13px;
+      margin-top: 5px;
+      color: #555;
+    }
+
+    .download {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+    }
+
+
+    
